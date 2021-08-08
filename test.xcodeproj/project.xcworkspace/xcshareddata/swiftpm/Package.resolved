@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SoftUIView",
+        "repositoryURL": "https://github.com/hmhv/SoftUIView.git",
+        "state": {
+          "branch": null,
+          "revision": "7cad93419bcc4e51c658ff48fcc7626fa6015d95",
+          "version": "0.0.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
